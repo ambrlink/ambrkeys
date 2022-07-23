@@ -1,6 +1,6 @@
 {
-  "name": "ambrd",
-  "description": "Ambr stream encryption",
+  "name": "ambrkeys",
+  "description": "Ambr key creation for stream encrypt/decrypt",
   "version": "0.0.1",
   "author": {
     "name": "This is Bullish .Ltd",
@@ -8,7 +8,7 @@
     "url": "https://bullish.design"
   },
   "bugs": {
-    "url": "https://github.com/ashbeech/ambrd/issues"
+    "url": "https://github.com/ashbeech/ambrkeys/issues"
   },
   "dependencies": {
     "base64-js": "^1.5.1"
@@ -38,7 +38,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ashbeech/ambrd.git"
+    "url": "git://github.com/ashbeech/ambrkeys.git"
   },
   "scripts": {
     "test": "standard && npm run test-browser",
