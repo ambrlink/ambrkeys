@@ -1,5 +1,5 @@
 {
-  "name": "ambr-keychain",
+  "name": "ambrd",
   "description": "Ambr stream encryption",
   "version": "0.0.1",
   "author": {
@@ -8,7 +8,7 @@
     "url": "https://bullish.design"
   },
   "bugs": {
-    "url": "https://github.com/ashbeech/ambr-keychain/issues"
+    "url": "https://github.com/ashbeech/ambrd/issues"
   },
   "dependencies": {
     "base64-js": "^1.5.1"
@@ -38,7 +38,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ashbeech/ambr-keychain.git"
+    "url": "git://github.com/ashbeech/ambrd.git"
   },
   "scripts": {
     "test": "standard && npm run test-browser",
